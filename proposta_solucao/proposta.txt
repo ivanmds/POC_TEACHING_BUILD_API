@@ -1,0 +1,14 @@
+##proposta
+1) construir uma api usando dot.core com c#
+2) salvar dados no banco de dados mongodb
+
+##necessidades
+1) preciso saber quais dados dos cliente devo obter para salvar
+    
+    ## primeira ideia do modelo
+    nome
+    data de nascimento
+    genero
+    email
+    celular
+    endereco
