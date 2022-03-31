@@ -11,7 +11,7 @@ namespace Customers.Controllers
         
         
         [HttpGet]
-        public  IActionResult Post()
+        public  IActionResult Get()
         {
 
             return null;

@@ -6,9 +6,9 @@
 1) preciso saber quais dados dos cliente devo obter para salvar
     
     ## primeira ideia do modelo
-    nome
-    data de nascimento
-    genero
-    email
-    celular
-    endereco
+    nome (string)
+    data de nascimento (DateTime)
+    genero (enum)
+    email (string)
+    celular (string)
+    endereco (string)
