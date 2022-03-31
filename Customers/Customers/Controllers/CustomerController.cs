@@ -10,7 +10,7 @@ namespace Customers.Controllers
         // post => criar recurso do lado do servido
         
         
-        [HttpPost]
+        [HttpGet]
         public  IActionResult Post()
         {
 
